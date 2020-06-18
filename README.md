@@ -92,7 +92,7 @@ $ git clone https://github.com/dufellipeR/GOFinances.git && cd GOFinances
 
 ```bash
 # Starting from the project root folder, go to backend folder
-$ cd server
+$ cd backend
 
 # Install the dependencies
 $ yarn
@@ -118,7 +118,7 @@ _Obs.: Before to continue, be sure to have the API running_
 
 ```bash
 # Starting from the project root folder, go to frontend folder
-$ cd web
+$ cd frontend
 
 # Install the dependencies
 $ yarn
