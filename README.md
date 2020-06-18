@@ -13,7 +13,7 @@
     <img alt="Made by" src="https://img.shields.io/badge/made%20by-dufellipeR-%235636D3">
   </a>
   
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/dufellipeR/GOFinances?color=%235636D3">
+  <!-- <img alt="Repository size" src="https://img.shields.io/github/repo-size/dufellipeR/GOFinances?color=%235636D3"> -->
   
   <a href="https://github.com/dufellipeR/GOFinances/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/dufellipeR/GOFinances?color=%235636D3">
@@ -23,7 +23,7 @@
     <img alt="Repository issues" src="https://img.shields.io/github/issues/dufellipeR/GOFinances?color=%235636D3">
   </a>
   
-  <img alt="GitHub" src="https://img.shields.io/github/license/dufellipeR/GOFinances?color=%235636D3">
+  <!-- <img alt="GitHub" src="https://img.shields.io/github/license/dufellipeR/GOFinances?color=%235636D3"> -->
 </p>
 
 <p align="center">
