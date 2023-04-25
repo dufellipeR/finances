@@ -174,4 +174,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Eduardo Ribeiro 👋 [See my linkedin](https://www.linkedin.com/in/eduardo-ribeiro-/)
+Eduardo Ribeiro 👋 [See my linkedin](https://www.linkedin.com/in/edu-r/)
